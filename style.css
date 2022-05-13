@@ -1,0 +1,85 @@
+body{
+	background-color: #DD510C;
+	padding:  150px;
+	font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+	color: #E85309;
+	text-align: center;
+}
+
+h2{
+	color: #F9C22E;
+	text-align: center;
+}
+
+img{
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+
+.vue-biarritz{
+	width: 900px;
+	height: 600px;
+	object-fit: cover;
+
+}
+
+.côte-des-basques{
+	width: 28%;
+	height: 349px;
+	object-fit: cover;
+}
+
+.grande-plage{
+	width: 40%;
+	height: 400px;
+	object-fit: cover;
+}
+
+.port-vieux{
+	width: 28%;
+	height: 350px;
+	object-fit: cover;
+}
+
+
+.elements-center{
+	text-align: center;
+}
+
+div {
+	background-color: #F4ECDC;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	border: 10px solid #F9C22E;
+	margin: 50px;
+}
+
+.elements-aligned {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.navigation-aligned {
+	display: flex;
+	justify-content: space-around; 
+	padding: 30px;
+}
+
+
+a {
+	color: #E85309;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #19647E;
+	font-size: 22px;
+	font-weight: bolder;
+}
